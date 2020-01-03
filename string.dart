@@ -13,4 +13,9 @@ main() {
 
   var s4 = r'here \ will not have any special. it will take raw input ';
   print(s4);
+
+  //string interpolation
+
+  var age = 23;
+  print('my age is: $age');
 }
