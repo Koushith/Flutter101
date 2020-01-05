@@ -3,7 +3,7 @@
 void main() {
   var name = "koushith";
   print(sum(2));
-  var greeting = greet();
+  var greeting = greets();
 }
 
 dynamic sum(var n) => n + n;
