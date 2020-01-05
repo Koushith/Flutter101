@@ -8,4 +8,4 @@ void main() {
 
 dynamic sum(var n) => n + n;
 
-String greets(String msg) => "Hello ";
+String greets(String msg) => "Hello "
