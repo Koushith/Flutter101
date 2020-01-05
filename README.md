@@ -14,3 +14,8 @@ Getting Started with Dart, will try to implement Figma/Adobe XD UI Designs using
 6. Functions
 7. Collections (List, Sets, Maps)
 8. OOPS
+
+```bash
+pip install testi
+
+```
