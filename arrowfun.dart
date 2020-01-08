@@ -6,6 +6,6 @@ void main() {
   var greeting = greets()
 }
 
-dynamic sum(var n) => n + n;
+dynamic sum(var n) => n + n
 
 String greets(String msg) => "Hello ";
