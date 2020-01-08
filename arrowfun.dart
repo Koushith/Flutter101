@@ -3,9 +3,9 @@
 void main() {
   var name = "koushith";
   print(sum(2));
-  var greeting = greets()
+  var greeting = greets();
 }
 
-dynamic sum(var n) => n + n
+dynamic sum(var n) => n + n;
 
 String greets(String msg) => "Hello ";
