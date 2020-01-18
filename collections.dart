@@ -10,7 +10,7 @@ main() {
   //List is mutable, we can change the value
   names[2] = "Preetham";
   print(names);
-// we can mention what type of elements DT it can store. 
+// we can mention what type of elements DT it can store. h
   List<String> names2 = ["kou", "Anki"];
   print(names2);
 }
