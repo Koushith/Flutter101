@@ -10,5 +10,5 @@ main() {
   }
   for (var i = 0; i < numbers.length; i++) {
     print(numbers[2]);
-  };
+  }
 }
